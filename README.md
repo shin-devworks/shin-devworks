@@ -1,16 +1,113 @@
-## Hi there 👋
+# 👋 Shin | アプリ開発・テスト
 
-<!--
-**shin-devworks/shin-devworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+個人でアプリ開発・テスト・業務効率化ツールの制作に取り組んでいます。
 
-Here are some ideas to get you started:
+iOSアプリの企画から開発、動作検証、App Store公開まで一連の工程を経験しています。
+現在は、アプリテスト・QA・開発補助を中心に、クラウドソーシングでの業務にも取り組んでいます。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pythonの基礎学習・ツール制作に加え、現在はJavaScriptを学習し、Web分野にも対応範囲を広げています。
+
+---
+
+## 🛠 Skills
+
+### App Development
+- Flutter / Dart
+- iOSアプリ開発
+- Xcode
+- Git / GitHub
+
+### Testing / QA
+- アプリの動作確認
+- テストケースに基づく検証
+- 不具合の再現確認
+- スクリーンショット・画面録画による記録
+- 不具合内容・再現手順の整理
+
+### Programming
+- Python
+- JavaScript（学習中）
+
+### Other
+- Excel / Google スプレッドシート
+- 操作手順書・マニュアル作成
+- AIツールを活用した開発・調査・作業効率化
+
+---
+
+## 📱 App Development
+
+### スキマプラス
+
+スキマ時間を活用して、登録したタスクから取り組む内容を提案するiOSアプリです。
+
+**担当範囲**
+- アプリ企画
+- UI設計
+- Flutter / Dartによる実装
+- 実機テスト
+- 不具合修正
+- App Store申請・公開
+
+個人開発として、企画からリリースまで一連の工程を経験しました。
+
+---
+
+## 💻 Portfolio
+
+### Python
+
+Pythonの基礎学習および、業務効率化・データ処理などを想定したプログラム制作に取り組んでいます。
+
+- Python基礎
+- データ処理
+- Webスクレイピング
+- 業務自動化
+- 小規模ツール制作
+
+### JavaScript
+
+現在、Web開発・テスト業務への対応範囲を広げるため、JavaScriptを学習しています。
+
+学習内容や制作物については、GitHub上で順次公開していきます。
+
+---
+
+## 🔍 What I Can Do
+
+以下のような業務を中心に対応しています。
+
+- Web・アプリの動作テスト
+- テストケースに沿った動作確認
+- 不具合・バグの再現確認
+- 不具合報告・再現手順の作成
+- スクリーンショット・画面録画による検証結果の記録
+- アプリ開発補助
+- 操作マニュアル・手順書作成
+- データ入力・整理
+- Pythonを利用した簡単な業務効率化
+
+---
+
+## 🌱 Currently Learning
+
+- JavaScript
+- Webアプリケーションの仕組み
+- Web・アプリのテスト / QA
+- 開発・テスト業務におけるGit / GitHub活用
+
+---
+
+## 📌 About This GitHub
+
+このGitHubでは、
+
+- 個人開発したアプリ
+- プログラミング学習記録
+- Python / JavaScriptの制作物
+- テスト・QAのサンプル
+- 業務効率化ツール
+
+などを公開していきます。
+
+継続的に学習・制作を行い、実務で対応できる範囲を広げています。
